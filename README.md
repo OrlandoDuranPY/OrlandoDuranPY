@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OrlandoDuranPY
 - 👀 I’m currently studying software engineering 🤓
 - 🌱 I’m currently learning PHP & Flutter
-- 💞️ I’m love front end development
+- 💞️ I love front end development
 - 📫 How to reach me ...
 
 <!---
