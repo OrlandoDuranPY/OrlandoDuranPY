@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Orlando Durán</h1>
 <h3 align="center">A passionate frontend developer from México, the land of tacos! 🌮 I'm currently studying a software engineering 🤓</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=orlandoduranpy&label=Profile%20views&color=0e75b6&style=flat" alt="orlandoduranpy" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=orlandoduranpy&label=Profile%20views&color=0e75b6&style=flat" alt="orlandoduranpy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=orlandoduranpy" alt="orlandoduranpy" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=orlandoduranpy" alt="orlandoduranpy" /></a> </p>
 
 - 📹 I'm currently working on my Youtube Channel ["Sticky Header"](https://www.youtube.com/channel/UCjyik2OU1z9zQoTeg3tyDAQ)
 
