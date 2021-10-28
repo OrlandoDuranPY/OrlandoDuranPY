@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Orlando Durán</h1>
 <h3 align="center">A passionate frontend developer from México, the land of tacos! 🌮</h3>
+![instagram](https://user-images.githubusercontent.com/57104916/139322485-60106f1b-e46e-4fc4-8d85-d3d5e6fffff6.png)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=orlandoduranpy&label=Profile%20views&color=0e75b6&style=flat" alt="orlandoduranpy" /> </p>
 
