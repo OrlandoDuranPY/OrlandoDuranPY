@@ -7,4 +7,6 @@
 <li>Working on my new Youtube Channel <a href="https://www.youtube.com/channel/UCjyik2OU1z9zQoTeg3tyDAQ"><img src="https://github.com/OrlandoDuranPY/Iconos/blob/main/Redes%20Sociales/youtube.png" height="20px" alt="Sticky Header"/></a> </li>
 </ul>
 
-https://gist.github.com/tterb/982ae14a9307b80117dbf49f624ce0e8
+---
+<h3 style="font-size:20px">Frontend</h3>
+<img height="30px" src="https://github.com/OrlandoDuranPY/Iconos/blob/main/Lenguajes/html.png" alt="HTML5"/><img height="30px" src="https://github.com/OrlandoDuranPY/Iconos/blob/main/Lenguajes/css.png" alt="CSS"/><img height="30px" src="https://github.com/OrlandoDuranPY/Iconos/blob/main/Lenguajes/js.png" alt="Javascript"/><img height="30px" src="https://github.com/OrlandoDuranPY/Iconos/blob/main/Lenguajes/sass.png" alt="SASS"/>
