@@ -24,3 +24,7 @@
 <img height="30px" src="https://github.com/OrlandoDuranPY/Iconos/blob/main/Tools/illustrator.png" alt="Adobe Illustrator"/>
 
 </p>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/wakatime?username=USERNAME"
+/>
