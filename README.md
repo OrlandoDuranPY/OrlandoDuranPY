@@ -16,5 +16,11 @@
 ---
 <h3 align="center" style="font-size:20px">Tools</h3>
 <p align="center">
-<img height="30px" src="https://github.com/OrlandoDuranPY/Iconos/blob/main/Lenguajes/html.png" alt="HTML5"/>
+<img height="30px" src="https://github.com/OrlandoDuranPY/Iconos/blob/main/Tools/git.png" alt="GIT"/>
+<img height="30px" src="https://github.com/OrlandoDuranPY/Iconos/blob/main/Tools/githubDesktop.png" alt="Github Desktop"/>
+<img height="30px" src="https://github.com/OrlandoDuranPY/Iconos/blob/main/Tools/figma.png" alt="Figma"/>
+<img height="30px" src="https://github.com/OrlandoDuranPY/Iconos/blob/main/Tools/xd.png" alt="Adobe XD"/>
+<img height="30px" src="https://github.com/OrlandoDuranPY/Iconos/blob/main/Tools/photoshop.png" alt="Adobe Photoshop"/>
+<img height="30px" src="https://github.com/OrlandoDuranPY/Iconos/blob/main/Tools/illustrator.png" alt="Adobe Illustrator"/>
+
 </p>
