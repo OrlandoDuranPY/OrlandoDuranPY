@@ -8,7 +8,7 @@
 </ul>
 
 ---
-<h3 style="font-size:20px">Frontend</h3>
-<p>
+<h3 align="center" style="font-size:20px">Frontend</h3>
+<p align="center">
 <img height="30px" src="https://github.com/OrlandoDuranPY/Iconos/blob/main/Lenguajes/html.png" alt="HTML5"/><img height="30px" src="https://github.com/OrlandoDuranPY/Iconos/blob/main/Lenguajes/css.png" alt="CSS"/><img height="30px" src="https://github.com/OrlandoDuranPY/Iconos/blob/main/Lenguajes/js.png" alt="Javascript"/><img height="30px" src="https://github.com/OrlandoDuranPY/Iconos/blob/main/Lenguajes/sass.png" alt="SASS"/>
 </p>
