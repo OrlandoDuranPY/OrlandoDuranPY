@@ -7,13 +7,13 @@
 <li>Working on my new Youtube Channel <a href="https://www.youtube.com/channel/UCjyik2OU1z9zQoTeg3tyDAQ"><img src="https://github.com/OrlandoDuranPY/Iconos/blob/main/Redes%20Sociales/youtube.png" height="20px" alt="Sticky Header"/></a> </li>
 </ul>
 
----
+
 <h3 align="center" style="font-size:20px">Frontend</h3>
 <p align="center">
 <img height="30px" src="https://github.com/OrlandoDuranPY/Iconos/blob/main/Lenguajes/html.png" alt="HTML5"/> <img height="30px" src="https://github.com/OrlandoDuranPY/Iconos/blob/main/Lenguajes/css.png" alt="CSS"/> <img height="30px" src="https://github.com/OrlandoDuranPY/Iconos/blob/main/Lenguajes/js.png" alt="Javascript"/> <img height="30px" src="https://github.com/OrlandoDuranPY/Iconos/blob/main/Lenguajes/sass.png" alt="SASS"/>
 </p>
 
----
+
 <h3 align="center" style="font-size:20px">Tools</h3>
 <p align="center">
 <img height="30px" src="https://github.com/OrlandoDuranPY/Iconos/blob/main/Tools/git.png" alt="GIT"/>
