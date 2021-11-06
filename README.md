@@ -2,8 +2,8 @@
 ---
 ``` javascript
 let thisIsMe = {
-"fullname" : "José Orlando Durán Pérez,
-"myAge" : 23,
+"fullname" : "José Orlando Durán Pérez",
+"age" : 23,
 "country" : "México",
 "occupation" : "Software engineering student",
 }
