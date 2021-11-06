@@ -8,8 +8,8 @@ country : "México",
 occupation : "Software Engineering Student",
 socialNetworks : {
   instagram : "orlandoduranpy",
-  github : "orlandoduranpy,
-  linkedin : "orlandoduranpy,
+  github : "orlandoduranpy",
+  linkedin : "orlandoduranpy",
   youtube : "Sticky Header"
   }
 }
