@@ -9,3 +9,13 @@ occupation : "Software Engineering Student"
 }
 
 ```
+---
+## Languages & Tools
+* HTML5
+* CSS3 / SASS
+* Javascript
+* Illustrator
+* Photoshop
+* Premiere
+* Adobe XD
+* Figma
