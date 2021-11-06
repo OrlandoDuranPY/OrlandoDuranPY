@@ -14,9 +14,16 @@ occupation : "Software Engineering Student"
 * HTML5
 * CSS3 / SASS
 * Javascript
+* PHP
 * Git
 * Illustrator
 * Photoshop
 * Premiere
 * Adobe XD
 * Figma
+---
+## Currently Learning
+* Angular
+* React JS
+* Vue
+* Flutter
