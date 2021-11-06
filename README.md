@@ -3,7 +3,7 @@
 ``` javascript
 let thisIsMe = {
 "fullname" : "José Orlando Durán Pérez,
-"age" : 23,
+"myAge" : 23,
 "country" : "México",
 "occupation" : "Software engineering student",
 }
