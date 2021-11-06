@@ -2,10 +2,10 @@
 ---
 ``` javascript
 let thisIsMe = {
-"fullname" : "José Orlando Durán Pérez",
-"age" : 23,
-"country" : "México",
-"occupation" : "Software Engineering Student",
+fullname : "José Orlando Durán Pérez",
+age : 23,
+country : "México",
+occupation : "Software Engineering Student",
 }
 
 ```
