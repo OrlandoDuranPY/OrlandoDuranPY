@@ -14,6 +14,7 @@ occupation : "Software Engineering Student"
 * HTML5
 * CSS3 / SASS
 * Javascript
+* Git
 * Illustrator
 * Photoshop
 * Premiere
