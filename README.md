@@ -36,6 +36,6 @@ socialNetworks : {
 
 ---
 
-![Orlando's GitHub stats](https://github-readme-stats.vercel.app/api?username=orlandoduranpy&show_icons=true)
+![Orlando's GitHub stats](https://github-readme-stats.vercel.app/api?username=orlandoduranpy&show_icons=true&theme=radical)
 
 
