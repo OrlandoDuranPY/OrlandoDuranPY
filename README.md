@@ -34,3 +34,4 @@ socialNetworks : {
 * Vue
 * Flutter
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orlandoduranpy)](https://github.com/anuraghazra/github-readme-stats)
