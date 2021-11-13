@@ -34,6 +34,5 @@ socialNetworks : {
 * Vue
 * Flutter
 
-[![Orlando's GitHub stats](https://github-readme-stats.vercel.app/api?username=orlandoduranpy)](https://github.com/anuraghazra/github-readme-stats)
 ![Orlando's GitHub stats](https://github-readme-stats.vercel.app/api?username=orlandoduranpy&count_private=true)
 
