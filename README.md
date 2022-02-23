@@ -30,8 +30,7 @@ socialNetworks : {
 
 ## Currently Learning
 * Angular
-* React JS
-* Vue
+* Python
 * Flutter
 
 ---
