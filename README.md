@@ -10,7 +10,6 @@ socialNetworks : {
   instagram : "orlandoduranpy",
   github : "orlandoduranpy",
   linkedin : "orlandoduranpy",
-  youtube : "Sticky Header"
   }
 }
 
