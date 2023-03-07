@@ -28,9 +28,8 @@ socialNetworks : {
 * Figma
 
 ## Currently Learning
-* Angular
-* Python
-* Flutter
+* React JS
+* Tailwind
 
 ---
 
