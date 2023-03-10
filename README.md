@@ -25,8 +25,6 @@ socialNetworks : {
 * Git
 * Illustrator
 * Photoshop
-* Premiere
-* Adobe XD
 * Figma
 
 ## Currently Learning
