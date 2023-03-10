@@ -32,6 +32,7 @@ socialNetworks : {
 ## Currently Learning
 * React JS
 * Tailwind
+* Laravel
 
 ---
 
