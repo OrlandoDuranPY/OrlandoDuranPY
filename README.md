@@ -1,4 +1,5 @@
-![Github Profile](https://user-images.githubusercontent.com/57104916/223331621-528bd546-93c7-47ef-96b7-eb62e657c14d.png)
+![Github Profile](https://user-images.githubusercontent.com/57104916/224362070-c42e8ea4-dab2-41b4-becb-5dac23fee386.png)
+
 
 ``` javascript
 let aboutMe = {
