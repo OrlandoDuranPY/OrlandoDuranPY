@@ -1,4 +1,5 @@
-![Github Profile (1)](https://user-images.githubusercontent.com/57104916/224362389-e11d55d6-58ed-4edf-a8a0-bc48d3795dc2.png)
+![Github Profile](https://user-images.githubusercontent.com/57104916/226693097-e992dea7-0548-46eb-b733-a0850828f04d.png)
+
 
 
 
