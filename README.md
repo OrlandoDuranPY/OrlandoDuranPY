@@ -1,6 +1,4 @@
-![Github Profile](https://user-images.githubusercontent.com/57104916/226693097-e992dea7-0548-46eb-b733-a0850828f04d.png)
-
-
+![Github Profile](https://user-images.githubusercontent.com/57104916/226693514-eb0b102a-56d9-41c7-96b2-7de619911be5.png)
 
 
 ``` javascript
