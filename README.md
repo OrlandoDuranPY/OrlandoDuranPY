@@ -4,9 +4,9 @@
 ``` javascript
 let aboutMe = {
 fullname : "José Orlando Durán Pérez",
-age : 24,
+age : 27,
 country : "México",
-occupation : "Software Engineering Student",
+occupation : "Software Engineering",
 socialNetworks : {
   instagram : "orlandoduranpy",
   github : "orlandoduranpy",
