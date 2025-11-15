@@ -19,18 +19,11 @@ socialNetworks : {
 ## Languages & Tools
 * HTML5
 * CSS3 / SASS
-* Javascript
-* PHP
-* Git
-* Illustrator
-* Photoshop
-* Figma
-
-## Currently Learning
-* React JS
 * Tailwind
+* Javascript
 * Laravel
-
+* Vue
+* Git
 ---
 
 ![Orlando's GitHub stats](https://github-readme-stats.vercel.app/api?username=orlandoduranpy&show_icons=true&theme=github_dark)
