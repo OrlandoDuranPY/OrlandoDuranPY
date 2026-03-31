@@ -78,7 +78,7 @@ Soy desarrollador full-stack con enfoque en el ecosistema PHP/Laravel y Vue.js. 
 
 > ⚠️ *Reemplaza estos con tus proyectos reales*
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OrlandoDuranPY&repo=NOMBRE-REPO-1&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/OrlandoDuranPY/NOMBRE-REPO-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OrlandoDuranPY&repo=configuracion-fedora-laravel&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/OrlandoDuranPY/configuracion-fedora-laravel)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OrlandoDuranPY&repo=NOMBRE-REPO-2&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/OrlandoDuranPY/NOMBRE-REPO-2)
 
 ---
